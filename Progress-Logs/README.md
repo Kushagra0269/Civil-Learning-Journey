@@ -22,3 +22,8 @@ This folder tracks my weekly learning progress.
 ### Next Week
 - Install AutoCAD student version
 - Learn basic drafting commands
+
+### Day 2 (June 7th, 2026)
+
+Started learning AutoCAD using structured practice.
+Completed first drawing exercise.
