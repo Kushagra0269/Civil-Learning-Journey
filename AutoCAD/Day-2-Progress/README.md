@@ -1,9 +1,13 @@
 # Day 2 Practice
 
-Learned:
-- Interface basics
-- Drawing commands
-- Modification commands
+Commands practiced:
+- Line
+- Rectangle
+- Circle
+- Offset
+- Trim
+- Extend
+- Move
 
-Created:
-- Simple room layout elements
+Outcome:
+Created first basic building-element practice drawing.
